@@ -59,6 +59,7 @@
 
 ## JavaScript 
 
+- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 - [pi0/minimal-nitro](https://github.com/pi0/minimal-nitro) - 
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
