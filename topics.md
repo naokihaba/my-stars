@@ -415,6 +415,7 @@
 
 ## others 
 
+- [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [pi0/nitro-vc-queues](https://github.com/pi0/nitro-vc-queues) - https://nitro-vc-queues.vercel.app/
 - [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
