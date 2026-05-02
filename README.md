@@ -176,6 +176,7 @@
 
 ## TypeScript 
 
+- [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
 - [voidzero-dev/setup.viteplus.dev](https://github.com/voidzero-dev/setup.viteplus.dev) - Host at https://setup.viteplus.dev with architecture auto-detection (default x64)
