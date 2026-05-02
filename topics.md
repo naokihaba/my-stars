@@ -415,6 +415,7 @@
 
 ## others 
 
+- [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [pi0/nitro-vc-queues](https://github.com/pi0/nitro-vc-queues) - https://nitro-vc-queues.vercel.app/
