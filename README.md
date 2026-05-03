@@ -106,6 +106,7 @@
 
 ## Others 
 
+- [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue) - ubugeeei favorite vue styles
 - [ubugeeei-forks/vuejs-rfcs](https://github.com/ubugeeei-forks/vuejs-rfcs) - RFCs for substantial changes / feature additions to Vue core
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
