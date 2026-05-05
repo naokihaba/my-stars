@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -88,6 +89,12 @@
 - [web](#web)
 - [webpack](#webpack)
 - [zsh](#zsh)
+
+## agents 
+
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
+- [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 
 ## ai 
 
