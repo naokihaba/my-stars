@@ -600,7 +600,7 @@
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
