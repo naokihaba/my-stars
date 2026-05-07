@@ -127,6 +127,7 @@
 
 ## Python 
 
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 
 ## Rust 
