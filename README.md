@@ -226,7 +226,6 @@
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [nuxt/examples](https://github.com/nuxt/examples) - Deployed Nuxt examples
 - [rolldown/plugins](https://github.com/rolldown/plugins) - Official Rolldown plugins
-- [danielroe/nuxt-site-template](https://github.com/danielroe/nuxt-site-template) - 
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.
@@ -405,6 +404,7 @@
 - [TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025](https://github.com/TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025) - 
 - [nuxt/website-v2](https://github.com/nuxt/website-v2) - Nuxt 2 Documentation Website
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
+- [danielroe/nuxt-site-template](https://github.com/danielroe/nuxt-site-template) - 
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com](https://github.com/Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com) - 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
