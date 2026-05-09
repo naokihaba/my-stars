@@ -182,6 +182,7 @@
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
 - [voidzero-dev/setup.viteplus.dev](https://github.com/voidzero-dev/setup.viteplus.dev) - Host at https://setup.viteplus.dev with architecture auto-detection (default x64)
+- [void-sdk/void](https://github.com/void-sdk/void) - 
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [module-federation/vite](https://github.com/module-federation/vite) - Vite Plugin for Module Federation
 - [posva/template-lib-ts](https://github.com/posva/template-lib-ts) - Modern TypeScript library template with ultra-fast oxc toolchain
