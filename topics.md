@@ -435,6 +435,7 @@
 - [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings for Rust and JS/TS, etc...
 - [fengmk2/fengmk2.github.com](https://github.com/fengmk2/fengmk2.github.com) - MK2's blog
 - [voidzero-dev/setup.viteplus.dev](https://github.com/voidzero-dev/setup.viteplus.dev) - Host at https://setup.viteplus.dev with architecture auto-detection (default x64)
+- [void-sdk/void](https://github.com/void-sdk/void) - 
 - [mizchi/chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) - 
 - [module-federation/vite](https://github.com/module-federation/vite) - Vite Plugin for Module Federation
 - [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
