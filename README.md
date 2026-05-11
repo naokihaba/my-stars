@@ -59,6 +59,7 @@
 
 ## JavaScript 
 
+- [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 - [pi0/minimal-nitro](https://github.com/pi0/minimal-nitro) - 
@@ -106,6 +107,7 @@
 
 ## Others 
 
+- [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue) - ubugeeei favorite vue styles
 - [ubugeeei-forks/vuejs-rfcs](https://github.com/ubugeeei-forks/vuejs-rfcs) - RFCs for substantial changes / feature additions to Vue core
@@ -178,6 +180,7 @@
 
 ## TypeScript 
 
+- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
