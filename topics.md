@@ -56,6 +56,7 @@
 - [markdown](#markdown)
 - [mcp](#mcp)
 - [mysql](#mysql)
+- [nestjs](#nestjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -319,6 +320,7 @@
 
 ## javascript 
 
+- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
@@ -396,6 +398,10 @@
 
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 
+## nestjs 
+
+- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
+
 ## node 
 
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -408,6 +414,7 @@
 
 ## nodejs 
 
+- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - A metadata scraper for Node.js with support for oEmbed, Twitter Cards, and Open Graph Protocol
@@ -422,6 +429,8 @@
 
 ## others 
 
+- [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
+- [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
@@ -762,6 +771,7 @@
 
 ## typescript 
 
+- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [posva/template-lib-ts](https://github.com/posva/template-lib-ts) - Modern TypeScript library template with ultra-fast oxc toolchain
