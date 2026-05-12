@@ -293,6 +293,7 @@
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [Barbapapazes/vite-vue-unpic](https://github.com/Barbapapazes/vite-vue-unpic) - Cumulative Layout Shift, when related to images, can be tricky to handle. Learn how to completely remove CLS issues without any manual work.
+- [oxc-project/website](https://github.com/oxc-project/website) - Repo for oxc.rs
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
 - [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
@@ -413,7 +414,6 @@
 - [Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com](https://github.com/Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com) - 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
-- [oxc-project/website](https://github.com/oxc-project/website) - Repo for oxc.rs
 - [yuyinws/oxc-inspector](https://github.com/yuyinws/oxc-inspector) - Inspect and understand the Oxc toolchain with ease.
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 - [TheAlexLichter/talk-rolldown-viteconf-25](https://github.com/TheAlexLichter/talk-rolldown-viteconf-25) - 
