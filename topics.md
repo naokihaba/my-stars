@@ -369,6 +369,7 @@
 
 ## llm 
 
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 
 ## machine-learning 
@@ -429,9 +430,9 @@
 
 ## others 
 
+- [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
 - [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
