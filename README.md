@@ -182,6 +182,7 @@
 
 ## TypeScript 
 
+- [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
@@ -247,7 +248,7 @@
 - [pi0/skillman](https://github.com/pi0/skillman) - 🤹 Manage project skills and lock them in skills.json
 - [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
-- [mates-dev/pinia-colada-graphql](https://github.com/mates-dev/pinia-colada-graphql) - 
+- [matesedu/pinia-colada-graphql](https://github.com/matesedu/pinia-colada-graphql) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
@@ -347,7 +348,7 @@
 - [unjs/c12](https://github.com/unjs/c12) - ⚙️ Smart Configuration Loader
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
