@@ -435,6 +435,7 @@
 
 ## others 
 
+- [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
 - [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
@@ -515,7 +516,7 @@
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
 - [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
-- [mates-dev/pinia-colada-graphql](https://github.com/mates-dev/pinia-colada-graphql) - 
+- [matesedu/pinia-colada-graphql](https://github.com/matesedu/pinia-colada-graphql) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
@@ -617,7 +618,7 @@
 - [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [vuejs/vue-jsx-vapor](https://github.com/vuejs/vue-jsx-vapor) - Vapor Mode of Vue JSX
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
