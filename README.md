@@ -97,6 +97,7 @@
 
 ## MoonBit 
 
+- [ubugeeei/relanote](https://github.com/ubugeeei/relanote) - formal music language. everything are relative.
 - [mizchi/crater](https://github.com/mizchi/crater) - 
 
 ## Nix 
@@ -158,7 +159,6 @@
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
-- [ubugeeei/relanote](https://github.com/ubugeeei/relanote) - formal music language. everything are relative.
 - [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - The framework agnostic fastest and beautiful documentation tooling for JS/TS
 - [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
