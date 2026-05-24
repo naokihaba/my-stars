@@ -27,6 +27,8 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
+- [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [data-structures](#data-structures)
 - [deno](#deno)
@@ -82,6 +84,7 @@
 - [spring](#spring)
 - [storybook](#storybook)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -94,6 +97,7 @@
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## agents 
@@ -160,6 +164,7 @@
 
 ## c 
 
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 
 ## chrome 
@@ -213,6 +218,14 @@
 
 - [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
 
+## cpp 
+
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
+
+## csharp 
+
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
+
 ## css 
 
 - [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
@@ -255,6 +268,7 @@
 
 ## eslint 
 
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
 - [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
@@ -465,7 +479,6 @@
 - [TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025](https://github.com/TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025) - 
 - [pi0/minimal-nitro](https://github.com/pi0/minimal-nitro) - 
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
-- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings for Rust and JS/TS, etc...
 - [fengmk2/fengmk2.github.com](https://github.com/fengmk2/fengmk2.github.com) - MK2's blog
 - [voidzero-dev/setup.viteplus.dev](https://github.com/voidzero-dev/setup.viteplus.dev) - Host at https://setup.viteplus.dev with architecture auto-detection (default x64)
 - [void-sdk/void](https://github.com/void-sdk/void) - 
@@ -733,6 +746,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 - [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [ubugeeei/origin](https://github.com/ubugeeei/origin) - ubugeeei/origin (bootstrap for setup)
@@ -773,6 +787,10 @@
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the b
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
+
+## swift 
+
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 
 ## tailwindcss 
 
@@ -911,6 +929,10 @@
 ## windows 
 
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+
+## zig 
+
+- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 
 ## zsh 
 
