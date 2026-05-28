@@ -20,7 +20,6 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## C 
 
@@ -59,6 +58,7 @@
 
 ## JavaScript 
 
+- [oxc-project/monitor-oxc](https://github.com/oxc-project/monitor-oxc) - E2E testing and monitoring for oxc
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
@@ -72,7 +72,7 @@
 - [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
 - [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
+- [vitejs/launch-editor](https://github.com/vitejs/launch-editor) - Open file in editor from Node.js.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
@@ -192,6 +192,7 @@
 - [void-sdk/void](https://github.com/void-sdk/void) - 
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [module-federation/vite](https://github.com/module-federation/vite) - Vite Plugin for Module Federation
+- [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
 - [posva/template-lib-ts](https://github.com/posva/template-lib-ts) - Modern TypeScript library template with ultra-fast oxc toolchain
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
@@ -441,10 +442,6 @@
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [vitejs/docs-ja](https://github.com/vitejs/docs-ja) - Japanese translation of vitejs.dev
 - [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) - Japanese translation for Vue docs
-
-## Zig 
-
-- [pithings/zigpty](https://github.com/pithings/zigpty) - Tiny, cross-platform PTY library for Node.js, built in Zig, also usable as a standalone Zig package. Supports Linux, macOS, Android and Windows.
 
 
 ## License
