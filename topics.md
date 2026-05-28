@@ -466,6 +466,7 @@
 
 ## others 
 
+- [oxc-project/monitor-oxc](https://github.com/oxc-project/monitor-oxc) - E2E testing and monitoring for oxc
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
@@ -563,7 +564,7 @@
 - [voidzero-dev/setup-vp](https://github.com/voidzero-dev/setup-vp) - GitHub Action to set up Vite+ with dependency caching support.
 - [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
 - [danielroe/roe.dev](https://github.com/danielroe/roe.dev) - This is the code and content for my personal website, built in Nuxt.
-- [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
+- [vitejs/launch-editor](https://github.com/vitejs/launch-editor) - Open file in editor from Node.js.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
