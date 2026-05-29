@@ -136,6 +136,7 @@
 
 ## Rust 
 
+- [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -160,7 +161,7 @@
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
-- [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - The framework agnostic fastest and beautiful documentation tooling for JS/TS
+- [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - A framework agnostic fastest and beautiful documentation & markdown tooling
 - [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
@@ -350,7 +351,6 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
-- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
@@ -430,6 +430,7 @@
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [danielroe/nuxt-vapor-demo](https://github.com/danielroe/nuxt-vapor-demo) - A demo showcasing Vue's new Vapor Mode compilation with benchmark tests inspired by js-framework-benchmark.
 - [sxzz/vue-jsx-playground](https://github.com/sxzz/vue-jsx-playground) - A playground for Vue JSX.
+- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
 - [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
