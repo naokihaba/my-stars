@@ -98,7 +98,7 @@
 
 ## MoonBit 
 
-- [ubugeeei/relanote](https://github.com/ubugeeei/relanote) - formal music language. everything are relative.
+- [ubugeeei-prod/relanote](https://github.com/ubugeeei-prod/relanote) - formal music language. everything are relative.
 - [mizchi/crater](https://github.com/mizchi/crater) - 
 
 ## Nix 
@@ -111,7 +111,7 @@
 
 - [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
-- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue) - ubugeeei favorite vue styles
+- [ubugeeei-prod/style-guide.vue](https://github.com/ubugeeei-prod/style-guide.vue) - ubugeeei favorite vue styles
 - [ubugeeei-forks/vuejs-rfcs](https://github.com/ubugeeei-forks/vuejs-rfcs) - RFCs for substantial changes / feature additions to Vue core
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
@@ -136,13 +136,14 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [ubugeeei/corsa-bind](https://github.com/ubugeeei/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
+- [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [csskit/csskit](https://github.com/csskit/csskit) - Refreshing CSS
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -161,8 +162,8 @@
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Fast and friendly Node.js devtools
-- [ubugeeei/ox-content](https://github.com/ubugeeei/ox-content) - A framework agnostic fastest and beautiful documentation & markdown tooling
-- [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
+- [ubugeeei-prod/ox-content](https://github.com/ubugeeei-prod/ox-content) - A framework agnostic fastest and beautiful documentation & markdown tooling
+- [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
 - [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
@@ -184,6 +185,7 @@
 
 ## TypeScript 
 
+- [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
