@@ -353,6 +353,7 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
+- [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
@@ -433,7 +434,6 @@
 - [danielroe/nuxt-vapor-demo](https://github.com/danielroe/nuxt-vapor-demo) - A demo showcasing Vue's new Vapor Mode compilation with benchmark tests inspired by js-framework-benchmark.
 - [sxzz/vue-jsx-playground](https://github.com/sxzz/vue-jsx-playground) - A playground for Vue JSX.
 - [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
-- [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
 - [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
 - [sxzz/rolldown-browser](https://github.com/sxzz/rolldown-browser) - Rolldown on Browser
