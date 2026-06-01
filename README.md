@@ -58,6 +58,7 @@
 
 ## JavaScript 
 
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [oxc-project/monitor-oxc](https://github.com/oxc-project/monitor-oxc) - E2E testing and monitoring for oxc
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
