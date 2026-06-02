@@ -254,7 +254,7 @@
 - [pi0/skillman](https://github.com/pi0/skillman) - 🤹 Manage project skills and lock them in skills.json
 - [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - A opinionated ESLint config preset.
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
-- [matesedu/pinia-colada-graphql](https://github.com/matesedu/pinia-colada-graphql) - 
+- [MatesEngineer/pinia-colada-graphql](https://github.com/MatesEngineer/pinia-colada-graphql) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
