@@ -555,7 +555,7 @@
 - [antfu/skills-cli](https://github.com/antfu/skills-cli) - The open agent skills tool - npx skills
 - [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
-- [matesedu/pinia-colada-graphql](https://github.com/matesedu/pinia-colada-graphql) - 
+- [MatesEngineer/pinia-colada-graphql](https://github.com/MatesEngineer/pinia-colada-graphql) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
