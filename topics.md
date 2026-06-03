@@ -471,6 +471,7 @@
 
 ## others 
 
+- [andrewbranch/ts5to6](https://github.com/andrewbranch/ts5to6) - CLI to migrate TypeScript projects away from `baseUrl` and `rootDir` usage
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
