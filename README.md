@@ -186,6 +186,7 @@
 
 ## TypeScript 
 
+- [andrewbranch/ts5to6](https://github.com/andrewbranch/ts5to6) - CLI to migrate TypeScript projects away from `baseUrl` and `rootDir` usage
 - [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
