@@ -471,6 +471,8 @@
 
 ## others 
 
+- [posva/nuxt-examples-data-loaders](https://github.com/posva/nuxt-examples-data-loaders) - Nuxt examples: data fetching with Vue Router data loaders (defineBasicLoader + defineColadaLoader / Pinia Colada)
+- [johnsoncodehk/monogram](https://github.com/johnsoncodehk/monogram) - Define syntax once, generate lexer, parser, TextMate, tree-sitter
 - [andrewbranch/ts5to6](https://github.com/andrewbranch/ts5to6) - CLI to migrate TypeScript projects away from `baseUrl` and `rootDir` usage
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
