@@ -186,6 +186,7 @@
 
 ## TypeScript 
 
+- [johnsoncodehk/monogram](https://github.com/johnsoncodehk/monogram) - Define syntax once, generate lexer, parser, TextMate, tree-sitter
 - [andrewbranch/ts5to6](https://github.com/andrewbranch/ts5to6) - CLI to migrate TypeScript projects away from `baseUrl` and `rootDir` usage
 - [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
@@ -415,6 +416,7 @@
 
 ## Vue 
 
+- [posva/nuxt-examples-data-loaders](https://github.com/posva/nuxt-examples-data-loaders) - Nuxt examples: data fetching with Vue Router data loaders (defineBasicLoader + defineColadaLoader / Pinia Colada)
 - [TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025](https://github.com/TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025) - 
 - [nuxt/website-v2](https://github.com/nuxt/website-v2) - Nuxt 2 Documentation Website
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
