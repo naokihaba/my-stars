@@ -110,6 +110,7 @@
 
 ## Others 
 
+- [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
 - [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [ubugeeei-prod/style-guide.vue](https://github.com/ubugeeei-prod/style-guide.vue) - ubugeeei favorite vue styles
