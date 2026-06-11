@@ -138,6 +138,7 @@
 
 ## Rust 
 
+- [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
@@ -187,6 +188,7 @@
 
 ## TypeScript 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [sapphi-red/daienjo-architecture](https://github.com/sapphi-red/daienjo-architecture) - 
 - [johnsoncodehk/monogram](https://github.com/johnsoncodehk/monogram) - Define syntax once, generate lexer, parser, TextMate, tree-sitter
