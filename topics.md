@@ -63,6 +63,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nestjs](#nestjs)
+- [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -134,6 +135,7 @@
 
 ## angular 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 
 ## api 
@@ -340,6 +342,7 @@
 
 ## http 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
@@ -349,6 +352,7 @@
 
 ## javascript 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
@@ -443,6 +447,10 @@
 
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 
+## nextjs 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+
 ## node 
 
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -455,6 +463,7 @@
 
 ## nodejs 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -471,6 +480,7 @@
 
 ## others 
 
+- [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [sapphi-red/daienjo-architecture](https://github.com/sapphi-red/daienjo-architecture) - 
@@ -832,6 +842,7 @@
 
 ## typescript 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
