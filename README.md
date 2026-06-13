@@ -341,7 +341,6 @@
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Composable UI engine for Vue. Build complex interfaces with reusable state, logic, and primitives—without being locked into components or styles.
-- [sxzz/npm-top-publishing](https://github.com/sxzz/npm-top-publishing) - Provenance of High Impact on npm
 - [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
@@ -436,6 +435,7 @@
 - [TheAlexLichter/talk-rolldown-viteconf-25](https://github.com/TheAlexLichter/talk-rolldown-viteconf-25) - 
 - [TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25) - 
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
+- [sxzz/npm-top-publishing](https://github.com/sxzz/npm-top-publishing) - Track OIDC, provenance, and staged publishing adoption across high-impact npm packages.
 - [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
 - [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com) - The Nuxt website, made with Nuxt.
