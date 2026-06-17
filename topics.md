@@ -484,6 +484,7 @@
 
 ## others 
 
+- [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
