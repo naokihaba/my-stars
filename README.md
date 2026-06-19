@@ -189,7 +189,7 @@
 ## TypeScript 
 
 - [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [sapphi-red/daienjo-architecture](https://github.com/sapphi-red/daienjo-architecture) - 
 - [johnsoncodehk/monogram](https://github.com/johnsoncodehk/monogram) - Define syntax once, generate lexer, parser, TextMate, tree-sitter
