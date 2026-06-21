@@ -104,6 +104,7 @@
 
 ## agents 
 
+- [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
@@ -242,6 +243,7 @@
 
 ## deno 
 
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ## developer-tools 
@@ -473,6 +475,7 @@
 
 ## npm 
 
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 - [LittleSound/nai](https://github.com/LittleSound/nai) - An interactive CLI that makes installing dependencies easy — with first-class catalog support.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
@@ -481,6 +484,7 @@
 
 ## others 
 
+- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [MatteoGabriele/agentscan](https://github.com/MatteoGabriele/agentscan) - An open experiment in detecting automation patterns on GitHub
 - [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
@@ -848,6 +852,7 @@
 
 ## typescript 
 
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
