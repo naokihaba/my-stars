@@ -188,6 +188,9 @@
 
 ## TypeScript 
 
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
+- [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
 - [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
