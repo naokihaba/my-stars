@@ -66,6 +66,7 @@
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 - [pi0/minimal-nitro](https://github.com/pi0/minimal-nitro) - 
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [sxzz/skills](https://github.com/sxzz/skills) - Kevin Deng's curated collection of agent skills.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [rstackjs/agent-skills](https://github.com/rstackjs/agent-skills) - A collection of Agent Skills for Rstack.
@@ -138,6 +139,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
@@ -188,13 +190,14 @@
 
 ## TypeScript 
 
+- [unjs/exsolve](https://github.com/unjs/exsolve) - Module resolution utilities based on Node.js upstream implementation.
 - [liangmiQwQ/vp-config](https://github.com/liangmiQwQ/vp-config) - Liang's united Vite+ config presets for JavaScript development.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
 - [MatteoGabriele/agentscan](https://github.com/MatteoGabriele/agentscan) - An open experiment in detecting automation patterns on GitHub
 - [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [sapphi-red/daienjo-architecture](https://github.com/sapphi-red/daienjo-architecture) - 
 - [johnsoncodehk/monogram](https://github.com/johnsoncodehk/monogram) - Define syntax once, generate lexer, parser, TextMate, tree-sitter
@@ -227,7 +230,6 @@
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
 - [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
-- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [antfu/ghfs](https://github.com/antfu/ghfs) - GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents.
 - [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
