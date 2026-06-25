@@ -30,6 +30,7 @@
 
 ## CSS 
 
+- [kazupon/vite-task-windows-issue-1](https://github.com/kazupon/vite-task-windows-issue-1) - 
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
