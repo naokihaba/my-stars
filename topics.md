@@ -484,6 +484,7 @@
 
 ## others 
 
+- [kazupon/vite-task-windows-issue-1](https://github.com/kazupon/vite-task-windows-issue-1) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [unjs/exsolve](https://github.com/unjs/exsolve) - Module resolution utilities based on Node.js upstream implementation.
 - [liangmiQwQ/vp-config](https://github.com/liangmiQwQ/vp-config) - Liang's united Vite+ config presets for JavaScript development.
