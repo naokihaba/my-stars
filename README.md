@@ -41,6 +41,7 @@
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint) - ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -173,7 +174,6 @@
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
 - [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
-- [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
