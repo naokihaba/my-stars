@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -101,6 +102,11 @@
 - [windows](#windows)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## agent-skills 
+
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
+- [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 
 ## agents 
 
@@ -583,7 +589,6 @@
 - [ubugeeei/bgql](https://github.com/ubugeeei/bgql) - Better GraphQL
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
 - [MatesEngineer/pinia-colada-graphql](https://github.com/MatesEngineer/pinia-colada-graphql) - 
-- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [edison1105/rolldown-path.default-issue](https://github.com/edison1105/rolldown-path.default-issue) - 
 - [zhiyuanzmj/vue-jsx-vapor-ssr](https://github.com/zhiyuanzmj/vue-jsx-vapor-ssr) - 
