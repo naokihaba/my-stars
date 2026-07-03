@@ -51,7 +51,7 @@
 ## HTML 
 
 - [pi0/nitro-vc-queues](https://github.com/pi0/nitro-vc-queues) - https://nitro-vc-queues.vercel.app/
-- [fengmk2/fengmk2.github.com](https://github.com/fengmk2/fengmk2.github.com) - MK2's blog
+- [fengmk2/fengmk2.com](https://github.com/fengmk2/fengmk2.com) - MK2's blog
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 
 ## Haskell 
@@ -141,6 +141,8 @@
 
 ## Rust 
 
+- [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
+- [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -191,6 +193,7 @@
 
 ## TypeScript 
 
+- [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [johnsoncodehk/typescript-native-bridge](https://github.com/johnsoncodehk/typescript-native-bridge) - A typescript-shaped drop-in backed by typescript-go (tsgo) over an in-process cgo NAPI/FFI bridge — no IPC.
 - [unjs/exsolve](https://github.com/unjs/exsolve) - Module resolution utilities based on Node.js upstream implementation.
 - [liangmiQwQ/vp-config](https://github.com/liangmiQwQ/vp-config) - Liang's united Vite+ config presets for JavaScript development.
@@ -258,7 +261,7 @@
 - [rolldown/plugins](https://github.com/rolldown/plugins) - Official Rolldown plugins
 - [nuxt/fonts](https://github.com/nuxt/fonts) - Plug-and-play web font optimization and configuration for Nuxt apps.
 - [danielroe/unsight.dev](https://github.com/danielroe/unsight.dev) - Detect duplicate GitHub issues, areas of concern and more across related repositories.
-- [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.
+- [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [wattanx/nuxt-vuex-module](https://github.com/wattanx/nuxt-vuex-module) - vuex module for Nuxt 3.
 - [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
