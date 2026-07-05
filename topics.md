@@ -492,6 +492,8 @@
 
 ## others 
 
+- [why-reproductions-are-required/vite-plus-node-env-null-repro](https://github.com/why-reproductions-are-required/vite-plus-node-env-null-repro) - Minimal reproduction for Vite+ setting NODE_ENV to null under vpr build
+- [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
 - [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
