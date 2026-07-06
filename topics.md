@@ -496,7 +496,6 @@
 - [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
 - [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
-- [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [johnsoncodehk/typescript-native-bridge](https://github.com/johnsoncodehk/typescript-native-bridge) - A typescript-shaped drop-in backed by typescript-go (tsgo) over an in-process cgo NAPI/FFI bridge — no IPC.
 - [kazupon/vite-task-windows-issue-1](https://github.com/kazupon/vite-task-windows-issue-1) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
