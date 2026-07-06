@@ -144,7 +144,6 @@
 
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
 - [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
-- [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
