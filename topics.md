@@ -73,6 +73,7 @@
 - [parsing](#parsing)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
+- [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
@@ -492,6 +493,8 @@
 
 ## others 
 
+- [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
+- [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
 - [why-reproductions-are-required/vite-plus-node-env-null-repro](https://github.com/why-reproductions-are-required/vite-plus-node-env-null-repro) - Minimal reproduction for Vite+ setting NODE_ENV to null under vpr build
 - [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
@@ -754,6 +757,10 @@
 ## postgresql 
 
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
+
+## programming-language 
+
+- [cordx56/prepoly](https://github.com/cordx56/prepoly) - The programming language utilizes JIT compilation and type inference
 
 ## prompt-engineering 
 
