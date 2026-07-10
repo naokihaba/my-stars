@@ -63,7 +63,6 @@
 - [mcp](#mcp)
 - [music](#music)
 - [mysql](#mysql)
-- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -364,7 +363,6 @@
 ## javascript 
 
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
-- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
@@ -455,10 +453,6 @@
 
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 
-## nestjs 
-
-- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
-
 ## nextjs 
 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.
@@ -475,7 +469,6 @@
 
 ## nodejs 
 
-- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - A metadata scraper for Node.js with support for oEmbed, Twitter Cards, and Open Graph Protocol
@@ -521,7 +514,6 @@
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [naokihaba/NaokiHaba](https://github.com/naokihaba/NaokiHaba) - My Github Profile
-- [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
@@ -760,7 +752,7 @@
 
 ## programming-language 
 
-- [cordx56/prepoly](https://github.com/cordx56/prepoly) - The programming language utilizes JIT compilation and type inference
+- [cordx56/prepoly](https://github.com/cordx56/prepoly) - A statically and flexibly type-inferred scripting language with just-in-time compilation
 
 ## prompt-engineering 
 
@@ -877,7 +869,6 @@
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
-- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [posva/template-lib-ts](https://github.com/posva/template-lib-ts) - Modern TypeScript library template with ultra-fast oxc toolchain
