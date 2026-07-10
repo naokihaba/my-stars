@@ -115,7 +115,6 @@
 ## Others 
 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
-- [naokihaba/my-stars](https://github.com/naokihaba/my-stars) - My GitHub Stars
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [ubugeeei-prod/style-guide.vue](https://github.com/ubugeeei-prod/style-guide.vue) - ubugeeei favorite vue styles
 - [ubugeeei-forks/vuejs-rfcs](https://github.com/ubugeeei-forks/vuejs-rfcs) - RFCs for substantial changes / feature additions to Vue core
@@ -143,7 +142,7 @@
 ## Rust 
 
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
-- [cordx56/prepoly](https://github.com/cordx56/prepoly) - The programming language utilizes JIT compilation and type inference
+- [cordx56/prepoly](https://github.com/cordx56/prepoly) - A statically and flexibly type-inferred scripting language with just-in-time compilation
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
 - [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
@@ -215,7 +214,6 @@
 - [andrewbranch/ts5to6](https://github.com/andrewbranch/ts5to6) - CLI to migrate TypeScript projects away from `baseUrl` and `rootDir` usage
 - [danielroe/uppt](https://github.com/danielroe/uppt) - A composite GitHub Action that turns conventional commits into a draft release PR, tags the PR on merge, and stages publishing to npm via OIDC trusted publishing.
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
-- [naokihaba/article-nestjs-restapi](https://github.com/naokihaba/article-nestjs-restapi) - NestJS REST API sample with TypeScript
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
 - [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
