@@ -197,6 +197,7 @@
 
 ## TypeScript 
 
+- [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
