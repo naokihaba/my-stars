@@ -20,6 +20,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## C 
 
@@ -192,14 +193,15 @@
 ## Shell 
 
 - [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
 - [kazupon/oxlint-js-plugin-benchmark-demo](https://github.com/kazupon/oxlint-js-plugin-benchmark-demo) - 
 
 ## TypeScript 
 
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
-- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [unjs/exsolve](https://github.com/unjs/exsolve) - Module resolution utilities based on Node.js upstream implementation.
 - [liangmiQwQ/vp-config](https://github.com/liangmiQwQ/vp-config) - Liang's united Vite+ config presets for JavaScript development.
@@ -379,6 +381,7 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
+- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -460,7 +463,6 @@
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [danielroe/nuxt-vapor-demo](https://github.com/danielroe/nuxt-vapor-demo) - A demo showcasing Vue's new Vapor Mode compilation with benchmark tests inspired by js-framework-benchmark.
 - [sxzz/vue-jsx-playground](https://github.com/sxzz/vue-jsx-playground) - A playground for Vue JSX.
-- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
 - [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
 - [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
 - [sxzz/rolldown-browser](https://github.com/sxzz/rolldown-browser) - Rolldown on Browser
@@ -472,6 +474,10 @@
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [vitejs/docs-ja](https://github.com/vitejs/docs-ja) - Japanese translation of vitejs.dev
 - [vuejs-translations/docs-ja](https://github.com/vuejs-translations/docs-ja) - Japanese translation for Vue docs
+
+## Zig 
+
+- [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
 
 
 ## License
