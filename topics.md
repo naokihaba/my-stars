@@ -493,6 +493,7 @@
 
 ## others 
 
+- [leaysgur/oxfmt-playground](https://github.com/leaysgur/oxfmt-playground) - 
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
