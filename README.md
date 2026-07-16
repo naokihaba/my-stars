@@ -11,6 +11,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [MoonBit](#moonbit)
 - [Nix](#nix)
@@ -99,6 +100,10 @@
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+
+## Kotlin 
+
+- [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
 
 ## Makefile 
 
