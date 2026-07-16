@@ -493,6 +493,7 @@
 
 ## others 
 
+- [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
 - [leaysgur/oxfmt-playground](https://github.com/leaysgur/oxfmt-playground) - 
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
