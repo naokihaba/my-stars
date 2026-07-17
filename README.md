@@ -150,7 +150,7 @@
 ## Rust 
 
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
-- [cordx56/prepoly](https://github.com/cordx56/prepoly) - A statically and flexibly type-inferred scripting language with just-in-time compilation
+- [brass-cz/brass](https://github.com/brass-cz/brass) - A statically and flexibly type-inferred scripting language with just-in-time compilation
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
 - [oxc-project/oxc-graphql-parser](https://github.com/oxc-project/oxc-graphql-parser) - 
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
