@@ -762,7 +762,7 @@
 
 ## programming-language 
 
-- [cordx56/prepoly](https://github.com/cordx56/prepoly) - A statically and flexibly type-inferred scripting language with just-in-time compilation
+- [brass-cz/brass](https://github.com/brass-cz/brass) - A statically and flexibly type-inferred scripting language with just-in-time compilation
 
 ## prompt-engineering 
 
