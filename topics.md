@@ -368,6 +368,7 @@
 
 ## javascript 
 
+- [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
@@ -493,6 +494,7 @@
 
 ## others 
 
+- [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
 - [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
 - [leaysgur/oxfmt-playground](https://github.com/leaysgur/oxfmt-playground) - 
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
@@ -803,6 +805,7 @@
 
 ## rust 
 
+- [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
