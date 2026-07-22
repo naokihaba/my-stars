@@ -329,7 +329,7 @@
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) - ✅ ESLint plugin to enforce the JavaScript Baseline.
 - [ssssota/rolldphobia](https://github.com/ssssota/rolldphobia) - A modern bundle size analyzer powered by Rolldown and esm.sh — running entirely in your browser
-- [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
+- [antfu-collective/changelogithub](https://github.com/antfu-collective/changelogithub) - Generate changelog for GitHub
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [unjs/hookable](https://github.com/unjs/hookable) - 🪝 Awaitable Hooks
@@ -389,7 +389,7 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [zhiyuanzmj/vitesse-jsx-vapor](https://github.com/zhiyuanzmj/vitesse-jsx-vapor) - 
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
-- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools for Vite (Rolldown).
+- [vitejs/devtools](https://github.com/vitejs/devtools) - DevTools Framework for the Vite Ecosystem.
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
