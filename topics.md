@@ -494,6 +494,7 @@
 
 ## others 
 
+- [VueConf/2026](https://github.com/VueConf/2026) - 
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
 - [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
 - [leaysgur/oxfmt-playground](https://github.com/leaysgur/oxfmt-playground) - 
