@@ -124,6 +124,7 @@
 
 ## Others 
 
+- [VueConf/2026](https://github.com/VueConf/2026) - 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [ubugeeei-prod/style-guide.vue](https://github.com/ubugeeei-prod/style-guide.vue) - ubugeeei favorite vue styles
