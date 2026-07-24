@@ -494,6 +494,7 @@
 
 ## others 
 
+- [astral-sh/hawk](https://github.com/astral-sh/hawk) - A workspace-aware Cargo lint for unnecessary public Rust APIs.
 - [VueConf/2026](https://github.com/VueConf/2026) - 
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
 - [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
