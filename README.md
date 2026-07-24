@@ -151,6 +151,7 @@
 
 ## Rust 
 
+- [astral-sh/hawk](https://github.com/astral-sh/hawk) - A workspace-aware Cargo lint for unnecessary public Rust APIs.
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [brass-cz/brass](https://github.com/brass-cz/brass) - A statically and flexibly type-inferred scripting language with just-in-time compilation
 - [oxc-project/oxc-yaml-parser](https://github.com/oxc-project/oxc-yaml-parser) - 
