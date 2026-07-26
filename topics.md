@@ -129,6 +129,7 @@
 
 ## ai-agents 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 
@@ -191,6 +192,7 @@
 
 ## cli 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [LittleSound/nai](https://github.com/LittleSound/nai) - An interactive CLI that makes installing dependencies easy — with first-class catalog support.
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -216,6 +218,7 @@
 
 ## command-line 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -424,6 +427,7 @@
 
 ## llm 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.
@@ -494,6 +498,7 @@
 
 ## others 
 
+- [hyfdev/project-context-records](https://github.com/hyfdev/project-context-records) - Project Context Records (PCR) gives autonomous AI work durable, reviewable memory in the repository.
 - [pnpm/update](https://github.com/pnpm/update) - 
 - [astral-sh/hawk](https://github.com/astral-sh/hawk) - A workspace-aware Cargo lint for unnecessary public Rust APIs.
 - [VueConf/2026](https://github.com/VueConf/2026) - 
@@ -868,6 +873,7 @@
 
 ## terminal 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -879,11 +885,13 @@
 
 ## tui 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## typescript 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
@@ -926,6 +934,7 @@
 
 ## vue 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [Huxpro/vue-lynx](https://github.com/Huxpro/vue-lynx) - Vue on Lynx
