@@ -124,6 +124,7 @@
 
 ## Others 
 
+- [hyfdev/project-context-records](https://github.com/hyfdev/project-context-records) - Project Context Records (PCR) gives autonomous AI work durable, reviewable memory in the repository.
 - [VueConf/2026](https://github.com/VueConf/2026) - 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
@@ -209,6 +210,7 @@
 
 ## TypeScript 
 
+- [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [yusukebe/ax](https://github.com/yusukebe/ax) - The AI-era curl
 - [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
