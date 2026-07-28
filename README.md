@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
 - [why-reproductions-are-required/vite-plus-node-env-null-repro](https://github.com/why-reproductions-are-required/vite-plus-node-env-null-repro) - Minimal reproduction for Vite+ setting NODE_ENV to null under vpr build
@@ -124,6 +125,7 @@
 
 ## Others 
 
+- [vitejs/ecosystem](https://github.com/vitejs/ecosystem) - 
 - [hyfdev/project-context-records](https://github.com/hyfdev/project-context-records) - Project Context Records (PCR) gives autonomous AI work durable, reviewable memory in the repository.
 - [VueConf/2026](https://github.com/VueConf/2026) - 
 - [fengmk2/oxc-setup-node](https://github.com/fengmk2/oxc-setup-node) - 
@@ -152,6 +154,8 @@
 
 ## Rust 
 
+- [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
+- [HerringtonDarkholme/tree-sitter](https://github.com/HerringtonDarkholme/tree-sitter) - An incremental parsing system for programming tools
 - [astral-sh/hawk](https://github.com/astral-sh/hawk) - A workspace-aware Cargo lint for unnecessary public Rust APIs.
 - [oxc-project/oxc-css-parser](https://github.com/oxc-project/oxc-css-parser) - 
 - [brass-cz/brass](https://github.com/brass-cz/brass) - A statically and flexibly type-inferred scripting language with just-in-time compilation
@@ -210,6 +214,9 @@
 
 ## TypeScript 
 
+- [sapphi-red/vite-deployment-metadata](https://github.com/sapphi-red/vite-deployment-metadata) - 
+- [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
+- [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [lacolaco/angular-skills](https://github.com/lacolaco/angular-skills) - Unofficial agent skills for working with Angular.
 - [vuejs-ai/vue-tui](https://github.com/vuejs-ai/vue-tui) - The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
