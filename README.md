@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
@@ -214,7 +215,7 @@
 
 ## TypeScript 
 
-- [sapphi-red/vite-deployment-metadata](https://github.com/sapphi-red/vite-deployment-metadata) - 
+- [vitejs/deployment-metadata](https://github.com/vitejs/deployment-metadata) - Defines shared contracts for exchanging deployment metadata between deployment-platform integrations and meta-frameworks.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [lacolaco/angular-skills](https://github.com/lacolaco/angular-skills) - Unofficial agent skills for working with Angular.
