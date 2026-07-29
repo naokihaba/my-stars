@@ -504,9 +504,10 @@
 
 ## others 
 
+- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
 - [vitejs/ecosystem](https://github.com/vitejs/ecosystem) - 
-- [sapphi-red/vite-deployment-metadata](https://github.com/sapphi-red/vite-deployment-metadata) - 
+- [vitejs/deployment-metadata](https://github.com/vitejs/deployment-metadata) - Defines shared contracts for exchanging deployment metadata between deployment-platform integrations and meta-frameworks.
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [HerringtonDarkholme/tree-sitter](https://github.com/HerringtonDarkholme/tree-sitter) - An incremental parsing system for programming tools
