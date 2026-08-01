@@ -125,6 +125,7 @@
 
 ## Others 
 
+- [oxc-project/backlog](https://github.com/oxc-project/backlog) - backlog for collborators only
 - [vitejs/ecosystem](https://github.com/vitejs/ecosystem) - 
 - [hyfdev/project-context-records](https://github.com/hyfdev/project-context-records) - Project Context Records (PCR) gives autonomous AI work durable, reviewable memory in the repository.
 - [VueConf/2026](https://github.com/VueConf/2026) - 
