@@ -272,7 +272,7 @@
 ## developer-tools 
 
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## devops 
 
@@ -342,11 +342,11 @@
 
 ## go 
 
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## golang 
 
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## graphql 
 
@@ -514,6 +514,7 @@
 
 ## others 
 
+- [ubugeeei-prod/lets-start-functional](https://github.com/ubugeeei-prod/lets-start-functional) - Learn functional programming by building a linear-time regular expression engine in Idris 2 — test-first, step by step.
 - [oxc-project/backlog](https://github.com/oxc-project/backlog) - backlog for collborators only
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
