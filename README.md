@@ -10,6 +10,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Idris](#idris)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Makefile](#makefile)
@@ -42,7 +43,7 @@
 
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint) - ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
@@ -60,6 +61,10 @@
 ## Haskell 
 
 - [ubugeeei/mreact](https://github.com/ubugeeei/mreact) - Monadic React Demo
+
+## Idris 
+
+- [ubugeeei-prod/lets-start-functional](https://github.com/ubugeeei-prod/lets-start-functional) - Learn functional programming by building a linear-time regular expression engine in Idris 2 — test-first, step by step.
 
 ## JavaScript 
 
