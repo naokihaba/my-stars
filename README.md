@@ -238,7 +238,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
-- [MatteoGabriele/agentscan](https://github.com/MatteoGabriele/agentscan) - An open experiment in detecting automation patterns on GitHub
+- [MatteoGabriele/agentscan](https://github.com/MatteoGabriele/agentscan) - Automation pattern detection for open source maintainers
 - [pnpm/setup](https://github.com/pnpm/setup) - Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
