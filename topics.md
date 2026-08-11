@@ -518,6 +518,7 @@
 
 ## others 
 
+- [Boshen/oxc-wasip1-workers](https://github.com/Boshen/oxc-wasip1-workers) - Cloudflare Workers demos for Oxc wasm32-wasip1 N-API bindings
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [ubugeeei-prod/lets-start-functional](https://github.com/ubugeeei-prod/lets-start-functional) - Learn functional programming by building a linear-time regular expression engine in Idris 2 — test-first, step by step.
 - [oxc-project/backlog](https://github.com/oxc-project/backlog) - backlog for collborators only
