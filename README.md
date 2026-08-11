@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [Boshen/oxc-wasip1-workers](https://github.com/Boshen/oxc-wasip1-workers) - Cloudflare Workers demos for Oxc wasm32-wasip1 N-API bindings
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
