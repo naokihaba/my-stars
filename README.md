@@ -163,6 +163,8 @@
 
 ## Rust 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [oxc-project/oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
 - [HerringtonDarkholme/tree-sitter](https://github.com/HerringtonDarkholme/tree-sitter) - An incremental parsing system for programming tools
 - [astral-sh/hawk](https://github.com/astral-sh/hawk) - A workspace-aware Cargo lint for unnecessary public Rust APIs.
