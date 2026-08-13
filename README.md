@@ -26,7 +26,6 @@
 
 ## C 
 
-- [unjs/md4x](https://github.com/unjs/md4x) - 📄 Fast and small markdown parser and renderer
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - Review GitHub PRs and local diff in your terminal, with AI-powered automated review & fix cycles
 - [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
@@ -511,6 +510,7 @@
 ## Zig 
 
 - [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku) - High-performance JavaScript/TypeScript compiler toolchain in Zig.
+- [unjs/md4x](https://github.com/unjs/md4x) - 📄 Fast and small markdown parser and renderer
 
 
 ## License
