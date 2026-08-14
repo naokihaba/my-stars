@@ -162,6 +162,7 @@
 
 ## Rust 
 
+- [ubugeeei-prod/oxlint-plugins](https://github.com/ubugeeei-prod/oxlint-plugins) - The fast oxlint plugin collections by @ubugeeei & @baseballyama
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oxc-project/oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 - [the-lean-crate/cargo-diet](https://github.com/the-lean-crate/cargo-diet) - A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
