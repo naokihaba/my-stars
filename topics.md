@@ -523,6 +523,7 @@
 
 ## others 
 
+- [tc39/proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [ubugeeei-prod/oxlint-plugins](https://github.com/ubugeeei-prod/oxlint-plugins) - The fast oxlint plugin collections by @ubugeeei & @baseballyama
 - [oxc-project/oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
 - [Boshen/oxc-wasip1-workers](https://github.com/Boshen/oxc-wasip1-workers) - Cloudflare Workers demos for Oxc wasm32-wasip1 N-API bindings
