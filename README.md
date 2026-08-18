@@ -132,6 +132,7 @@
 
 ## Others 
 
+- [tc39/proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [oxc-project/backlog](https://github.com/oxc-project/backlog) - backlog for collborators only
 - [vitejs/ecosystem](https://github.com/vitejs/ecosystem) - 
 - [hyfdev/project-context-records](https://github.com/hyfdev/project-context-records) - Project Context Records (PCR) gives autonomous AI work durable, reviewable memory in the repository.
