@@ -9,10 +9,10 @@
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
-- [Haskell](#haskell)
 - [Idris](#idris)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [MoonBit](#moonbit)
 - [Nix](#nix)
@@ -28,11 +28,9 @@
 
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [ushironoko/octorus](https://github.com/ushironoko/octorus) - Review GitHub PRs and local diff in your terminal, with AI-powered automated review & fix cycles
-- [pandax381/microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
 
 ## CSS 
 
-- [kazupon/vite-task-windows-issue-1](https://github.com/kazupon/vite-task-windows-issue-1) - 
 - [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui) - A terminal UI theme for VitePress
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -52,14 +50,9 @@
 
 ## HTML 
 
-- [leaysgur/oxfmt-playground](https://github.com/leaysgur/oxfmt-playground) - 
 - [pi0/nitro-vc-queues](https://github.com/pi0/nitro-vc-queues) - https://nitro-vc-queues.vercel.app/
 - [fengmk2/fengmk2.com](https://github.com/fengmk2/fengmk2.com) - MK2's blog
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
-
-## Haskell 
-
-- [ubugeeei/mreact](https://github.com/ubugeeei/mreact) - Monadic React Demo
 
 ## Idris 
 
@@ -72,7 +65,6 @@
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) - An ESLint config for Svelte
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) - 
-- [why-reproductions-are-required/vite-plus-node-env-null-repro](https://github.com/why-reproductions-are-required/vite-plus-node-env-null-repro) - Minimal reproduction for Vite+ setting NODE_ENV to null under vpr build
 - [johnsoncodehk/typescript-native-bridge](https://github.com/johnsoncodehk/typescript-native-bridge) - A typescript-shaped drop-in backed by typescript-go (tsgo) over an in-process cgo NAPI/FFI bridge — no IPC.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [oxc-project/monitor-oxc](https://github.com/oxc-project/monitor-oxc) - E2E testing and monitoring for oxc
@@ -95,25 +87,23 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
-- [TheAlexLichter/oxlint-eslint-plugin-compat-demo](https://github.com/TheAlexLichter/oxlint-eslint-plugin-compat-demo) - A minimal demo of eslint-plugin-compat with Oxlint
-- [oxc-project/bench-javascript-parser-written-in-rust](https://github.com/oxc-project/bench-javascript-parser-written-in-rust) - oxc's parser is 3x faster than swc, 5x faster than Biome
 - [tc39/notes](https://github.com/tc39/notes) - TC39 meeting notes
-- [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [nuxt/starter](https://github.com/nuxt/starter) - Create a new Nuxt project, module, layer or start from a theme with our collection of starters.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [sxzz/tc39-try-demo](https://github.com/sxzz/tc39-try-demo) - TC39 Try Demo
-- [rolldown/benchmarks](https://github.com/rolldown/benchmarks) - 
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
-- [yyx990803/bundle-size-benchmark](https://github.com/yyx990803/bundle-size-benchmark) - 
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 
 ## Kotlin 
 
 - [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
+
+## MDX 
+
+- [ushironoko/rust-cpu-gpu-book](https://github.com/ushironoko/rust-cpu-gpu-book) - RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)
 
 ## Makefile 
 
@@ -126,9 +116,7 @@
 
 ## Nix 
 
-- [mizchi/chezmoi-dotfiles](https://github.com/mizchi/chezmoi-dotfiles) - 
 - [ubugeeei/origin](https://github.com/ubugeeei/origin) - ubugeeei/origin (bootstrap for setup)
-- [naitokosuke/vize-nix](https://github.com/naitokosuke/vize-nix) - Unofficial Nix flake for Vize (personal use)
 
 ## Others 
 
@@ -144,15 +132,10 @@
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
 - [serkodev/vue-skills](https://github.com/serkodev/vue-skills) - Agent Skills for Vue.js development
 - [voidzero-dev/community-design-resources](https://github.com/voidzero-dev/community-design-resources) - Design Resources
-- [voidzero-dev/vite-plus-discussions](https://github.com/voidzero-dev/vite-plus-discussions) - Issue Tracking & Discussions for the Vite+ Technical Preview.
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react) - React とは何であるのか（執筆中）
-- [Devographics/locale-en-US](https://github.com/Devographics/locale-en-US) - 
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
-- [nitrojs/vite-examples](https://github.com/nitrojs/vite-examples) - Nitro v3 + Vite Examples
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-- [oxc-project/oxc-perf-wins](https://github.com/oxc-project/oxc-perf-wins) - 
 - [chibivue-land/japanese-companies-using-vuejs](https://github.com/chibivue-land/japanese-companies-using-vuejs) - 日本で Vue.js を使っている企業一覧
 - [vuejs/rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
 
@@ -177,7 +160,7 @@
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!
+- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -203,7 +186,6 @@
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Run TypeScript directly in Node.js, powered by Oxc.
 - [ubugeeei-prod/ox-content](https://github.com/ubugeeei-prod/ox-content) - A framework agnostic fastest and beautiful documentation & markdown tooling
 - [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 10k+ test suites, includes real world E2E.
-- [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
 - [oxc-project/oxc-zed](https://github.com/oxc-project/oxc-zed) - Oxc extension for Zed
 - [zhiyuanzmj/vue-oxc-parser](https://github.com/zhiyuanzmj/vue-oxc-parser) - Convert Vue AST to JSX AST
@@ -222,10 +204,13 @@
 - [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [cpojer/dotfiles](https://github.com/cpojer/dotfiles) - My dotfiles and VS Code setup.
-- [kazupon/oxlint-js-plugin-benchmark-demo](https://github.com/kazupon/oxlint-js-plugin-benchmark-demo) - 
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
+- [rstackjs/rstack-cli](https://github.com/rstackjs/rstack-cli) - Unified toolchain for shipping JavaScript faster. Powered by the Rspack ecosystem.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -239,7 +224,6 @@
 - [voidzero-dev/pkg-pr-registry-bridge](https://github.com/voidzero-dev/pkg-pr-registry-bridge) - A registry bridge for installing `pkg.pr.new` like preview builds as normal npm versions.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [unjs/exsolve](https://github.com/unjs/exsolve) - Module resolution utilities based on Node.js upstream implementation.
-- [liangmiQwQ/vp-config](https://github.com/liangmiQwQ/vp-config) - Liang's united Vite+ config presets for JavaScript development.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [vercel-labs/nostics](https://github.com/vercel-labs/nostics) - 🩺 Errors that are worth reading
@@ -254,7 +238,6 @@
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff) - a fast local diff viewer
 - [kazupon/ox-jsdoc](https://github.com/kazupon/ox-jsdoc) - High performance jsdoc parser
 - [zhiyuanzmj/jsx-repl](https://github.com/zhiyuanzmj/jsx-repl) - JSX REPL
-- [TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026](https://github.com/TheAlexLichter/talk-vite-plus-amsterdamjs-03-2026) - 
 - [voidzero-dev/setup.viteplus.dev](https://github.com/voidzero-dev/setup.viteplus.dev) - Host at https://setup.viteplus.dev with architecture auto-detection (default x64)
 - [void-sdk/void](https://github.com/void-sdk/void) - 
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
@@ -284,7 +267,6 @@
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
 - [unjs/impound](https://github.com/unjs/impound) - Builder-agnostic plugin to allow restricting import patterns in certain parts of your code-base.
-- [kazupon/vp-config](https://github.com/kazupon/vp-config) - Vite Plus configuration for @kazupon
 - [LittleSound/nai](https://github.com/LittleSound/nai) - An interactive CLI that makes installing dependencies easy — with first-class catalog support.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
@@ -322,7 +304,6 @@
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
-- [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - A metadata scraper for Node.js with support for oEmbed, Twitter Cards, and Open Graph Protocol
 - [fabon-f/temporal-polyfill-lite](https://github.com/fabon-f/temporal-polyfill-lite) - Lightweight Temporal polyfill
 - [ubugeeei/fuckin-strict-nuxt-dmmf](https://github.com/ubugeeei/fuckin-strict-nuxt-dmmf) - 
 - [shoma-mano/dmmf](https://github.com/shoma-mano/dmmf) - 
@@ -364,18 +345,14 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/node-mock-http](https://github.com/unjs/node-mock-http) - 
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
-- [Barbapapazes/vite-vue-unpic](https://github.com/Barbapapazes/vite-vue-unpic) - Cumulative Layout Shift, when related to images, can be tricky to handle. Learn how to completely remove CLS issues without any manual work.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [danielroe/nuxt-rebundle](https://github.com/danielroe/nuxt-rebundle) - Bundler optimisations for Nuxt
-- [kazupon/nitro-v3-demo](https://github.com/kazupon/nitro-v3-demo) - 
 - [nuxt/hints](https://github.com/nuxt/hints) - Nuxt module that shows hints for aspects of your application such as Performance, A11Y, Security, and more!
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [oxc-project/eslint-plugin-oxlint](https://github.com/oxc-project/eslint-plugin-oxlint) - Turn off all rules already supported by oxlint
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
 - [antfu/markdown-it-github-alerts](https://github.com/antfu/markdown-it-github-alerts) - Support GitHub-style alerts for markdown-it
 - [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
-- [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
-- [kazupon/eslint-config](https://github.com/kazupon/eslint-config) - ESLint config for @kazupon
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic Env Info
 - [oxc-project/oxlint-migrate](https://github.com/oxc-project/oxlint-migrate) - Generates a .oxlintrc.json from an existing ESLint flat config.
 - [h3js/rendu](https://github.com/h3js/rendu) - 🏎️ JavaScript Hypertext Preprocessor.
@@ -397,7 +374,6 @@
 - [esaio/esa-mcp-server](https://github.com/esaio/esa-mcp-server) - esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版)
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [vuetifyjs/0](https://github.com/vuetifyjs/0) - 0️⃣ Composable UI engine for Vue. Build complex interfaces with reusable state, logic, and primitives—without being locked into components or styles.
-- [antfu/starter-vue-webcomponent-uno](https://github.com/antfu/starter-vue-webcomponent-uno) - Starter for creating agnostic WebComponents using Vue and UnoCSS
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [unplugin/unplugin-macros](https://github.com/unplugin/unplugin-macros) - Macros plugin for bundlers.
 - [directus/rstore](https://github.com/directus/rstore) - The Reactive Data Store for Vue and Nuxt developers.
@@ -427,13 +403,11 @@
 - [antfu/nanovis](https://github.com/antfu/nanovis) - Tiny visualization library for rendering tree structure in Treemap, Sunburst, Flame.
 - [magicasaservice/vue-equipment](https://github.com/magicasaservice/vue-equipment) - Our Frontend Toolkit, Free and Open Source
 - [unjs/unpdf](https://github.com/unjs/unpdf) - 📄 PDF extraction and rendering across all JavaScript runtimes
-- [vitejs/rolldown-vite-perf-wins](https://github.com/vitejs/rolldown-vite-perf-wins) - Perf wins when users migrate from Vite to Rolldown-powered-Vite, with receipts
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [sxzz/rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts) - A Rolldown plugin to generate and bundle dts files.
 - [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
 - [sxzz/unloader](https://github.com/sxzz/unloader) - Node.js loader with a Rollup-like interface.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [antfu/nuxt-mcp-dev](https://github.com/antfu/nuxt-mcp-dev) - MCP server helping models to understand your Vite/Nuxt app better.
 - [antfu/vite-plugin-vue-tracer](https://github.com/antfu/vite-plugin-vue-tracer) - Tracer for the source code of elements and vdoms in Vue SFC.
 - [unplugin/unplugin-oxc](https://github.com/unplugin/unplugin-oxc) - Oxc integration for unplugin.
@@ -445,7 +419,6 @@
 - [intlify/bundle-tools](https://github.com/intlify/bundle-tools) - bundling for intlify i18n tools
 - [intlify/vue-i18n-extensions](https://github.com/intlify/vue-i18n-extensions) - vue-i18n extensions
 - [posva/vue-router-mock](https://github.com/posva/vue-router-mock) - 🧪 Easily mock routing interactions in your Vue apps
-- [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
 - [nuxt-modules/sitemap](https://github.com/nuxt-modules/sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
 - [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [antfu-collective/eslint-vitest-rule-tester](https://github.com/antfu-collective/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
@@ -454,7 +427,6 @@
 - [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [unplugin/unplugin-unused](https://github.com/unplugin/unplugin-unused) - Check unused dependencies.
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO & AEO for busy Nuxters.
-- [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
 - [nuxt/test-utils](https://github.com/nuxt/test-utils) - 🧪 Test utilities for Nuxt
 - [dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) - A highly configurable cookie banner for Nuxt.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
@@ -480,29 +452,15 @@
 ## Vue 
 
 - [posva/nuxt-examples-data-loaders](https://github.com/posva/nuxt-examples-data-loaders) - Nuxt examples: data fetching with Vue Router data loaders (defineBasicLoader + defineColadaLoader / Pinia Colada)
-- [TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025](https://github.com/TheAlexLichter/talk-nuxt-4-and-modern-js-tooling-myposter-2025) - 
 - [nuxt/website-v2](https://github.com/nuxt/website-v2) - Nuxt 2 Documentation Website
 - [danielroe/nuxt-site-template](https://github.com/danielroe/nuxt-site-template) - 
 - [danielroe/page-speed.dev](https://github.com/danielroe/page-speed.dev) - See and share Core Web Vitals and PageSpeed Insights results simply and easily.
 - [Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com](https://github.com/Just-Fucking-Use-Vue-js/blog.justfuckingusevuejs.com) - 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.
 - [oxc-project/playground](https://github.com/oxc-project/playground) - Oxc Playground
-- [oxc-project/website](https://github.com/oxc-project/website) - Repo for oxc.rs
-- [yuyinws/oxc-inspector](https://github.com/yuyinws/oxc-inspector) - Inspect and understand the Oxc toolchain with ease.
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
-- [TheAlexLichter/talk-rolldown-viteconf-25](https://github.com/TheAlexLichter/talk-rolldown-viteconf-25) - 
-- [TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-pragvue-25) - 
-- [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [sxzz/npm-top-publishing](https://github.com/sxzz/npm-top-publishing) - Track OIDC, provenance, and staged publishing adoption across high-impact npm packages.
-- [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
-- [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
-- [danielroe/nuxt-vapor-demo](https://github.com/danielroe/nuxt-vapor-demo) - A demo showcasing Vue's new Vapor Mode compilation with benchmark tests inspired by js-framework-benchmark.
-- [sxzz/vue-jsx-playground](https://github.com/sxzz/vue-jsx-playground) - A playground for Vue JSX.
-- [LittleSound/talks-template](https://github.com/LittleSound/talks-template) - Talks of Template, using Slidev
-- [TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025](https://github.com/TheAlexLichter/talk-voidzero-modern-tooling-frontend-nation-2025) - 
 - [sxzz/rolldown-browser](https://github.com/sxzz/rolldown-browser) - Rolldown on Browser
-- [LittleSound/talks](https://github.com/LittleSound/talks) - Slides & code for Rizumu's talks
-- [posva/talk-vue-nation-2025](https://github.com/posva/talk-vue-nation-2025) - Clean Async State Management
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
