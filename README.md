@@ -38,6 +38,7 @@
 
 ## Go 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -146,6 +147,7 @@
 
 ## Rust 
 
+- [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
 - [ubugeeei-prod/oxlint-plugins](https://github.com/ubugeeei-prod/oxlint-plugins) - The fast oxlint plugin collections by @ubugeeei & @baseballyama
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oxc-project/oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
@@ -207,7 +209,7 @@
 
 ## TypeScript 
 
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [rstackjs/rstack-cli](https://github.com/rstackjs/rstack-cli) - Unified toolchain for shipping JavaScript faster. Powered by the Rspack ecosystem.
@@ -316,6 +318,7 @@
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
+- [kazupon/vrowzer](https://github.com/kazupon/vrowzer) - Vite dev server in the Browser
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
