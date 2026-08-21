@@ -524,6 +524,8 @@
 
 ## others 
 
+- [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
+- [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [ushironoko/rust-cpu-gpu-book](https://github.com/ushironoko/rust-cpu-gpu-book) - RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)
 - [tc39/proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
@@ -663,6 +665,7 @@
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+- [kazupon/vrowzer](https://github.com/kazupon/vrowzer) - Vite dev server in the Browser
 - [calloc134/thinking-in-react](https://github.com/calloc134/thinking-in-react) - React とは何であるのか（執筆中）
 - [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Run TypeScript directly in Node.js, powered by Oxc.
 - [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
