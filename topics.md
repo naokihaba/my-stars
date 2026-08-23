@@ -524,6 +524,8 @@
 
 ## others 
 
+- [atinux/docster](https://github.com/atinux/docster) - A skill that helps AI agents write better docs, with support of Comark components.
+- [pikax/vue-benchmarks](https://github.com/pikax/vue-benchmarks) - 
 - [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
 - [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
