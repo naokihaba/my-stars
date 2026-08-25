@@ -12,7 +12,6 @@
 - [Idris](#idris)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [MoonBit](#moonbit)
 - [Nix](#nix)
@@ -103,10 +102,6 @@
 
 - [oxc-project/oxc-intellij-plugin](https://github.com/oxc-project/oxc-intellij-plugin) - 
 
-## MDX 
-
-- [ushironoko/rust-cpu-gpu-book](https://github.com/ushironoko/rust-cpu-gpu-book) - RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)
-
 ## Makefile 
 
 - [ubugeeei/hello-single-binary](https://github.com/ubugeeei/hello-single-binary) - 
@@ -149,7 +144,9 @@
 
 ## Rust 
 
+- [camchenry/oxc_checker](https://github.com/camchenry/oxc_checker) - Experimental type checker based on oxc
 - [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
+- [ushironoko/rust-cpu-gpu-book](https://github.com/ushironoko/rust-cpu-gpu-book) - RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)
 - [ubugeeei-prod/oxlint-plugins](https://github.com/ubugeeei-prod/oxlint-plugins) - The fast oxlint plugin collections by @ubugeeei & @baseballyama
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [oxc-project/oxc-browserslist](https://github.com/oxc-project/oxc-browserslist) - Rust port of browserslist
