@@ -524,6 +524,7 @@
 
 ## others 
 
+- [camchenry/oxc_checker](https://github.com/camchenry/oxc_checker) - Experimental type checker based on oxc
 - [atinux/docster](https://github.com/atinux/docster) - A skill that helps AI agents write better docs, with support of Comark components.
 - [pikax/vue-benchmarks](https://github.com/pikax/vue-benchmarks) - 
 - [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
