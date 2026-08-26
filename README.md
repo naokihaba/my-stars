@@ -139,6 +139,7 @@
 
 ## Python 
 
+- [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 
@@ -161,7 +162,7 @@
 - [oxc-project/forked-react-compiler](https://github.com/oxc-project/forked-react-compiler) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [pandax381/microps-rs](https://github.com/pandax381/microps-rs) - Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
-- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear) - Remove unused dependencies in a Rust project
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -208,6 +209,7 @@
 
 ## TypeScript 
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
