@@ -60,6 +60,7 @@
 
 ## JavaScript 
 
+- [nkzw-tech/oxlint-config](https://github.com/nkzw-tech/oxlint-config) - Opinionated Oxlint config with sensible defaults.
 - [pikax/vue-benchmarks](https://github.com/pikax/vue-benchmarks) - 
 - [Boshen/oxc-wasip1-workers](https://github.com/Boshen/oxc-wasip1-workers) - Cloudflare Workers demos for Oxc wasm32-wasip1 N-API bindings
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
@@ -117,6 +118,7 @@
 
 ## Others 
 
+- [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [atinux/docster](https://github.com/atinux/docster) - A skill that helps AI agents write better docs, with support of Comark components.
 - [tc39/proposal-bind-operator](https://github.com/tc39/proposal-bind-operator) - This-Binding Syntax for ECMAScript
 - [oxc-project/backlog](https://github.com/oxc-project/backlog) - backlog for collborators only
@@ -145,6 +147,7 @@
 
 ## Rust 
 
+- [ubugeeei/rust-challenge-2026](https://github.com/ubugeeei/rust-challenge-2026) - A 235-question, four-choice quiz on Rust's semantics — from the basics to Polonius and the next-generation trait solver. Single page, answers in toggles, every question links to the Playground.
 - [camchenry/oxc_checker](https://github.com/camchenry/oxc_checker) - Experimental type checker based on oxc
 - [Boshen/cargo-bsize](https://github.com/Boshen/cargo-bsize) - Investigate Rust binary size
 - [ushironoko/rust-cpu-gpu-book](https://github.com/ushironoko/rust-cpu-gpu-book) - RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)
@@ -202,6 +205,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [pnpm/update](https://github.com/pnpm/update) - 
 - [vite-plus-ecosystem-ci/.github](https://github.com/vite-plus-ecosystem-ci/.github) - 
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
@@ -209,6 +213,7 @@
 
 ## TypeScript 
 
+- [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [nuxt-modules/better-auth](https://github.com/nuxt-modules/better-auth) - The most comprehensive authentication framework for Nuxt.
