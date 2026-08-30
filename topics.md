@@ -40,6 +40,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [education](#education)
 - [electron](#electron)
 - [eslint](#eslint)
 - [framework](#framework)
@@ -294,6 +295,10 @@
 
 - [ubugeeei/origin](https://github.com/ubugeeei/origin) - ubugeeei/origin (bootstrap for setup)
 
+## education 
+
+- [ubugeeei/rust-challenge-2026](https://github.com/ubugeeei/rust-challenge-2026) - A 235-question, four-choice quiz on Rust's semantics — from the basics to Polonius and the next-generation trait solver. Single page, answers in toggles, every question links to the Playground.
+
 ## electron 
 
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
@@ -486,6 +491,7 @@
 
 ## nextjs 
 
+- [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.
 
 ## node 
@@ -526,6 +532,9 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
+- [nkzw-tech/oxlint-config](https://github.com/nkzw-tech/oxlint-config) - Opinionated Oxlint config with sensible defaults.
 - [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 - [camchenry/oxc_checker](https://github.com/camchenry/oxc_checker) - Experimental type checker based on oxc
 - [atinux/docster](https://github.com/atinux/docster) - A skill that helps AI agents write better docs, with support of Comark components.
@@ -824,6 +833,7 @@
 
 ## rust 
 
+- [ubugeeei/rust-challenge-2026](https://github.com/ubugeeei/rust-challenge-2026) - A 235-question, four-choice quiz on Rust's semantics — from the basics to Polonius and the next-generation trait solver. Single page, answers in toggles, every question links to the Playground.
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
 - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -907,6 +917,7 @@
 
 ## typescript 
 
+- [HugoRCD/evlog](https://github.com/HugoRCD/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [rstackjs/rstack-cli](https://github.com/rstackjs/rstack-cli) - Unified toolchain for shipping JavaScript faster. Powered by the Rspack ecosystem.
