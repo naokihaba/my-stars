@@ -214,6 +214,8 @@
 
 ## TypeScript 
 
+- [unjs/jup](https://github.com/unjs/jup) - 📦 pin and run the right package manager or runtime for every project.
+- [sxzz/ts-content-mapper](https://github.com/sxzz/ts-content-mapper) - 
 - [evloghq/evlog](https://github.com/evloghq/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
