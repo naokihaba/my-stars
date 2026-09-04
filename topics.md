@@ -534,6 +534,8 @@
 
 ## others 
 
+- [unjs/jup](https://github.com/unjs/jup) - 📦 pin and run the right package manager or runtime for every project.
+- [sxzz/ts-content-mapper](https://github.com/sxzz/ts-content-mapper) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [nkzw-tech/oxlint-config](https://github.com/nkzw-tech/oxlint-config) - Opinionated Oxlint config with sensible defaults.
