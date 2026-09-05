@@ -147,6 +147,7 @@
 
 ## Rust 
 
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ubugeeei/rust-challenge-2026](https://github.com/ubugeeei/rust-challenge-2026) - A 235-question, four-choice quiz on Rust's semantics — from the basics to Polonius and the next-generation trait solver. Single page, answers in toggles, every question links to the Playground.
 - [camchenry/oxc_checker](https://github.com/camchenry/oxc_checker) - Experimental type checker based on oxc
@@ -214,6 +215,7 @@
 
 ## TypeScript 
 
+- [danielroe/my-bad](https://github.com/danielroe/my-bad) - Beautiful dev-server error pages that live update. ✨
 - [unjs/jup](https://github.com/unjs/jup) - 📦 pin and run the right package manager or runtime for every project.
 - [sxzz/ts-content-mapper](https://github.com/sxzz/ts-content-mapper) - 
 - [evloghq/evlog](https://github.com/evloghq/evlog) - Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-first, every runtime.
