@@ -534,6 +534,8 @@
 
 ## others 
 
+- [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
+- [danielroe/my-bad](https://github.com/danielroe/my-bad) - Beautiful dev-server error pages that live update. ✨
 - [unjs/jup](https://github.com/unjs/jup) - 📦 pin and run the right package manager or runtime for every project.
 - [sxzz/ts-content-mapper](https://github.com/sxzz/ts-content-mapper) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
