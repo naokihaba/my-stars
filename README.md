@@ -60,6 +60,7 @@
 
 ## JavaScript 
 
+- [ecosystem-ci/ecosystem-ci](https://github.com/ecosystem-ci/ecosystem-ci) - 
 - [nkzw-tech/oxlint-config](https://github.com/nkzw-tech/oxlint-config) - Opinionated Oxlint config with sensible defaults.
 - [pikax/vue-benchmarks](https://github.com/pikax/vue-benchmarks) - 
 - [Boshen/oxc-wasip1-workers](https://github.com/Boshen/oxc-wasip1-workers) - Cloudflare Workers demos for Oxc wasm32-wasip1 N-API bindings
