@@ -534,6 +534,7 @@
 
 ## others 
 
+- [ecosystem-ci/ecosystem-ci](https://github.com/ecosystem-ci/ecosystem-ci) - 
 - [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
 - [danielroe/my-bad](https://github.com/danielroe/my-bad) - Beautiful dev-server error pages that live update. ✨
 - [unjs/jup](https://github.com/unjs/jup) - 📦 pin and run the right package manager or runtime for every project.
