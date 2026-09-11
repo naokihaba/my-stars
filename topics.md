@@ -534,6 +534,7 @@
 
 ## others 
 
+- [anthropics/oncall-kit](https://github.com/anthropics/oncall-kit) - Starter kit for a Claude-assisted on-call: mines your incident history into triage playbooks, sets up through human-approved gates, and runs read-only in your Slack channel — humans deploy every fix.
 - [ecosystem-ci/ecosystem-ci](https://github.com/ecosystem-ci/ecosystem-ci) - 
 - [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
 - [danielroe/my-bad](https://github.com/danielroe/my-bad) - Beautiful dev-server error pages that live update. ✨
