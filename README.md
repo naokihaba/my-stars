@@ -192,7 +192,6 @@
 - [ubugeeei/vraftls](https://github.com/ubugeeei/vraftls) - Virtual Raft-based Language Server Cluster
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Run TypeScript directly in Node.js, powered by Oxc.
 - [ubugeeei-prod/ox-content](https://github.com/ubugeeei-prod/ox-content) - all-in-one markdown toolchain ― fastest, tiniest, framework agnostic, powerful, customizable
 - [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already passed 16k+ tests.
 - [oxc-project/oxc-toml](https://github.com/oxc-project/oxc-toml) - Taplo forked for Oxfmt
@@ -333,6 +332,7 @@
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills) - Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - [kazupon/vrowzer](https://github.com/kazupon/vrowzer) - Vite dev server in the Browser
+- [oxc-project/oxc-node](https://github.com/oxc-project/oxc-node) - Run TypeScript directly in Node.js, powered by Oxc.
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [52-entertainment/vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - ⚓️+⚡️- Oxlint plugin for vite.
