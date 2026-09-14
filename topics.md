@@ -469,6 +469,7 @@
 
 ## markdown 
 
+- [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
@@ -534,6 +535,7 @@
 
 ## others 
 
+- [TanStack/markdown](https://github.com/TanStack/markdown) - Tiny, fast Markdown parsing and rendering for blogs and documentation
 - [anthropics/oncall-kit](https://github.com/anthropics/oncall-kit) - Starter kit for a Claude-assisted on-call: mines your incident history into triage playbooks, sets up through human-approved gates, and runs read-only in your Slack channel — humans deploy every fix.
 - [ecosystem-ci/ecosystem-ci](https://github.com/ecosystem-ci/ecosystem-ci) - 
 - [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
@@ -841,6 +843,7 @@
 
 ## rust 
 
+- [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ubugeeei/rust-challenge-2026](https://github.com/ubugeeei/rust-challenge-2026) - A 235-question, four-choice quiz on Rust's semantics — from the basics to Polonius and the next-generation trait solver. Single page, answers in toggles, every question links to the Playground.
 - [oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust) - Tutorial on writing a JavaScript Parser in Rust
